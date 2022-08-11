@@ -45,16 +45,6 @@ h1 {
   text-align: center;
   font-size: 2rem;
   border-radius: 0.5em;
-}
-
-.box.box-1 {
-  background-color: #6a5af9;
-}
-
-.box.box-2 {
-  background-color: #f62682;
-}
-
-.box.box-3 {
-  background-color: #ff6651;
+  cursor: pointer;
+  user-select: none;
 }
